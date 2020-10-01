@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IAPM_MANCINI.CategorieClass">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAIAAAAgAAAAAQAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Class\Categorie\CategorieClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.ClientClass">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAIAACAAIAAQKCAAAAEAAEAACAIA=</HashCode>
+      <FileName>Class\Client\ClientClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.CommandeClass">
+    <Position X="5" Y="5.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAIgRBAAAAAAAAAAAAQEKAAAAAACAAAAEAAAACAAQAA=</HashCode>
+      <FileName>Class\Commande\CommandeClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.GestionPDFClient">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Class\Client\GestionPDFClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.GestionPDFCommande">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Class\Commande\GestionPDFCommande.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.FournisseurClass">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAAAgEAAAAAAAAAAAgAAJAAACAAA=</HashCode>
+      <FileName>Class\Fournisseur\FournisseurClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.GestionPDF_Fourn">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Class\Fournisseur\GestionPDF_Fourn.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.GestionPDFProduit">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Class\Produit\GestionPDFProduit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.ProduitClass">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAIACQAAIAAgACAAQAAAAAAgQgAQBQAAAAA=</HashCode>
+      <FileName>Class\Produit\ProduitClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAPM_MANCINI.GestionBDD">
+    <Position X="4.5" Y="9.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AgAEBQAACAAEAAAAAADAAAAQAgAQgAAgIgAkAwCASSA=</HashCode>
+      <FileName>Class\GestionBDD.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

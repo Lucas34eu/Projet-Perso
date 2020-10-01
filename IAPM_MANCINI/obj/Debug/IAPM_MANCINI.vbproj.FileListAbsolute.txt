@@ -1,0 +1,132 @@
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe.config
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.pdb
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.xml
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.dll
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.xml
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbprojResolveAssemblyReference.cache
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAPropos.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmCategorie.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeClient.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeCommande.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeFournisseur.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeProduit.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStart.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStatistique.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Resources.resources
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.GenerateResource.Cache
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.exe
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.xml
+c:\users\lucas.mancini\documents\visual studio 2015\Projects\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.pdb
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe.config
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.exe
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.xml
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.pdb
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.pdb
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.xml
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.dll
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.xml
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAPropos.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmCategorie.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeClient.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeCommande.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeFournisseur.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStart.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStatistique.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Resources.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.GenerateResource.Cache
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeProduit.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmRechercheClient.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe.config
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.exe
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.xml
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.pdb
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.pdb
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.xml
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.dll
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.xml
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbprojResolveAssemblyReference.cache
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAPropos.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmCategorie.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeClient.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeCommande.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeFournisseur.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeProduit.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmRechercheClient.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStart.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStatistique.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Resources.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.GenerateResource.Cache
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.RechercheProduit.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\itextsharp.dll
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.RechercheProduit.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Commande.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Fournisseur.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Commande.resources
+P:\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Fournisseur.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe.config
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.exe
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.xml
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.pdb
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.pdb
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.xml
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\itextsharp.dll
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.dll
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.xml
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbprojResolveAssemblyReference.cache
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Commande.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Fournisseur.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAPropos.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmCategorie.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeClient.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeCommande.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeFournisseur.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeProduit.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmRechercheClient.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStart.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStatistique.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Resources.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.RechercheProduit.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.GenerateResource.Cache
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Connection.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.CommandeDetail.resources
+C:\Users\lucas.mancini\Desktop\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAjoutCommande.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe.config
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.exe
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.xml
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.pdb
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.exe
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.pdb
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\IAPM_MANCINI.xml
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\itextsharp.dll
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.dll
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\bin\Debug\MySql.Data.xml
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.CommandeDetail.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAjoutCommande.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Commande.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Connection.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Recherche_Fournisseur.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAPropos.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmCategorie.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeClient.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeCommande.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeFournisseur.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmListeProduit.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmRechercheClient.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStart.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmStatistique.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Resources.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.RechercheProduit.resources
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.GenerateResource.Cache
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbprojAssemblyReference.cache
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.CoreCompileInputs.cache
+P:\gestion boutique\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.CopyComplete
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbprojAssemblyReference.cache
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.CommandeDetail.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAjoutCommande.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.Connection.resources
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.vbproj.CopyComplete
+C:\Users\lucas.mancini\Desktop\IAPM_MANCINI\IAPM_MANCINI\obj\Debug\IAPM_MANCINI.frmAjoutProduit.resources

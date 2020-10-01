@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BAEE130-D098-4E87-B221-566DBE8BF30B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IAPM_MANCINI.My.MyApplication</StartupObject>
+    <RootNamespace>IAPM_MANCINI</RootNamespace>
+    <AssemblyName>IAPM_MANCINI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IAPM_MANCINI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IAPM_MANCINI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>\\icomptes\sio\Ressources\SIO1 SI3 SLAM1 TP DEV ADO.Net\2. Projet GestStages Phase 2 2019\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A propos\frmAPropos.Designer.vb">
+      <DependentUpon>frmAPropos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="A propos\frmAPropos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\Categorie\CategorieClass.vb" />
+    <Compile Include="Class\Commande\CommandeClass.vb" />
+    <Compile Include="Class\Commande\GestionPDFCommande.vb" />
+    <Compile Include="Class\Fournisseur\FournisseurClass.vb" />
+    <Compile Include="Class\Fournisseur\GestionPDF_Fourn.vb" />
+    <Compile Include="Class\GestionBDD.vb" />
+    <Compile Include="Class\Client\GestionPDFClient.vb" />
+    <Compile Include="Class\Produit\GestionPDFProduit.vb" />
+    <Compile Include="Class\Produit\ProduitClass.vb" />
+    <Compile Include="Commande\CommandeDetail.Designer.vb">
+      <DependentUpon>CommandeDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commande\CommandeDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commande\frmAjoutCommande.Designer.vb">
+      <DependentUpon>frmAjoutCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commande\frmAjoutCommande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commande\frmAjoutProduit.Designer.vb">
+      <DependentUpon>frmAjoutProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commande\frmAjoutProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.vb">
+      <DependentUpon>Connection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorie\frmCategorie.Designer.vb">
+      <DependentUpon>frmCategorie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Categorie\frmCategorie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commande\frmListeCommande.Designer.vb">
+      <DependentUpon>frmListeCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commande\frmListeCommande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client\frmListeClient.Designer.vb">
+      <DependentUpon>frmListeClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Client\frmListeClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fournisseur\frmListeFournisseur.Designer.vb">
+      <DependentUpon>frmListeFournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fournisseur\frmListeFournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produit\frmListeProduit.Designer.vb">
+      <DependentUpon>frmListeProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Produit\frmListeProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client\frmRechercheClient.Designer.vb">
+      <DependentUpon>frmRechercheClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Client\frmRechercheClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.Designer.vb">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fournisseur\Recherche_Fournisseur.Designer.vb">
+      <DependentUpon>Recherche_Fournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fournisseur\Recherche_Fournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commande\Recherche_Commande.Designer.vb">
+      <DependentUpon>Recherche_Commande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commande\Recherche_Commande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistique\frmStatistique.Designer.vb">
+      <DependentUpon>frmStatistique.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistique\frmStatistique.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\Client\ClientClass.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Produit\RechercheProduit.Designer.vb">
+      <DependentUpon>RechercheProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Produit\RechercheProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="A propos\frmAPropos.resx">
+      <DependentUpon>frmAPropos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande\CommandeDetail.resx">
+      <DependentUpon>CommandeDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande\frmAjoutCommande.resx">
+      <DependentUpon>frmAjoutCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande\frmAjoutProduit.resx">
+      <DependentUpon>frmAjoutProduit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande\Recherche_Commande.resx">
+      <DependentUpon>Recherche_Commande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fournisseur\Recherche_Fournisseur.resx">
+      <DependentUpon>Recherche_Fournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorie\frmCategorie.resx">
+      <DependentUpon>frmCategorie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client\frmListeClient.resx">
+      <DependentUpon>frmListeClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande\frmListeCommande.resx">
+      <DependentUpon>frmListeCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fournisseur\frmListeFournisseur.resx">
+      <DependentUpon>frmListeFournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produit\frmListeProduit.resx">
+      <DependentUpon>frmListeProduit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client\frmRechercheClient.resx">
+      <DependentUpon>frmRechercheClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStart.resx">
+      <DependentUpon>frmStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistique\frmStatistique.resx">
+      <DependentUpon>frmStatistique.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produit\RechercheProduit.resx">
+      <DependentUpon>RechercheProduit.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar-chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\packaging.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\writing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testing %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testing %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testing %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

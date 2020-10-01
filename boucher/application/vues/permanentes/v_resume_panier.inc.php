@@ -1,0 +1,1 @@
+<a id="resumePanier" href="index.php?controleur=panier&action=afficherPanier"> Mon panier : <?php echo Panier::getNbProduits(); ?> article(s)</a>
