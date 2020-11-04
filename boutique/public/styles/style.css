@@ -1,0 +1,276 @@
+body
+{
+    width:1200px; 
+    height:800px;
+    margin:auto; /* Pour centrer verticalement la page*/
+    margin-top:20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur.*/
+    margin-bottom:20px;	/* Idem pour le bas du navigateur */  
+    background-color: gainsboro;
+    overflow:hidden;/*cacher la barre de défilement*/
+}
+/* Header */
+header {
+    height: 120px;
+    border:   solid 5px black;    
+    background-color: white;
+    color: black;
+}
+header h1{ display:inline-block; vertical-align:top; padding-top: 10px;}
+header img{display:inline-block;padding:20px;vertical-align:top;}
+
+/* Navigation : menus */
+
+nav{display:inline-block;}
+
+nav#menu_haut{padding: 20px;  }
+nav#menu_haut ul{ list-style-type: none; font-weight: bold;}
+nav#menu_haut ul li{display:inline-block;}
+nav#menu_haut ul li a{text-decoration: none; color:black; padding:0 15px; font-size: 25px;}
+nav#menu_haut ul li a.actif,nav#menu_haut ul li a:hover{ background:#fff; color:grey;}
+
+nav#menu_gauche
+{
+    width:200px;
+    border: solid 2px #DEDEDE;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding-top: 2px;
+}
+
+nav#menu_gauche h1 {text-align: center;color:black;background-color: #EBEBEB;}
+nav#menu_gauche ul{ list-style-type: none; font-weight: bold;}
+nav#menu_gauche ul li a{text-decoration: none; color:black;padding:0 15px;}
+nav#menu_gauche ul li a.active,nav#menu_gauche ul li a:hover{ background:grey; color:#fff; }
+
+/* Section : partie principale */
+section
+{
+    display:inline-block;
+    width:730px;
+    height:80%;
+    vertical-align:top;
+    overflow:auto;/*barre de défilement si nécessaire*/
+    padding:20px;
+    background-color:white;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+
+section.panier a.commander{display: block;margin-top: 40px;}
+section.panier a.viderPanier{text-decoration:underline;color:darkred;cursor: pointer;}
+
+img{border:none; margin-left: 120px;}
+
+article{padding: 30px;
+        border-bottom-style: inset;
+}
+
+aside{display:inline-block;
+      vertical-align: top;                     
+}
+aside h1{
+    color:steelblue;    
+    font-size: 18pt;
+    display: inline;
+}
+
+.team
+{
+    width:500px;
+    margin-left: 100px;
+}
+
+#delete
+{
+    width: 50px;
+    margin-left: 50px;
+    
+}
+
+
+aside a {vertical-align: middle;}
+
+article img{padding-right: 60px;width: 150px;}
+
+section.panier article{padding:10px;border-style: none;}
+section.panier article img{width:50px;}
+section.panier article p{display: inline-block;vertical-align: top; width: 250px;}
+
+
+footer nav{background-color:#EBEBEB; border:solid 1px #DEDEDE;width:100%;}
+footer p{color:#7B7B7B;text-align: right;font-size: 0.9em;font-style: italic;}
+
+
+nav#menu_bas ul li{display:inline-block;}
+nav#menu_bas ul li a{text-decoration:none;color:#7B7B7B;cursor: pointer; padding:0 15px;}
+nav#menu_bas ul li a.actif,footer ul li a:hover{ color:#000;}
+
+a#resumePanier{display: block;text-decoration:none;color:black;cursor: pointer;padding-bottom: 10px;padding-left: 50px;}
+
+.message{color: darkred;}
+
+fieldset {
+padding:20px;
+margin-bottom:10px;
+}
+fieldset.sansBordure {
+padding:5px;
+border-style:none;
+}
+legend {
+color:#a0522d;
+font-weight:bold
+}
+label {
+width:120px;
+display:block;
+float:left;
+margin-left:22%;
+}
+label.enligne {
+display:inline;
+float:none;
+}
+input {
+border:1px solid black;
+background-color:#A6BEDE;
+margin-bottom:15px;
+}
+input[type=text],input[type=password] {
+width:200px;
+}
+input[type=checkbox] {
+margin-top:10px;
+}
+input[type=submit] {
+width:200px;
+height : 30px;
+font-size:13px;
+font-weight:bold;
+margin-top:20px;
+
+}
+
+.titre
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+.message-erreur{
+background:url(pasOK.png) 10px center no-repeat;
+padding: 20 0 0 30px;
+display:inline;
+color:#B30202;
+}
+
+.message-ok{
+background:url(OK.png) 10px center no-repeat;
+padding: 20 0 0 30px;
+width:30px;
+display:inline;
+color:#8FCF3C;
+font-weight:bold
+}
+
+.ac_results {
+	padding: 0px;
+	border: 1px solid black;
+	background-color: white;
+	overflow: hidden;
+	z-index: 99999;
+}
+
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	font: menu;
+	font-size: 11px;
+	line-height: 16px;
+	overflow: hidden;
+}
+
+.ac_loading {
+	background: white url('../images/indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	background-color: #eee;
+}
+
+.ac_over {
+	background-color: #6C726E;
+	color: white;
+}
+
+h2 
+{
+    text-align: center;
+}
+
+
+
+
+#accueil-boutique
+{
+    float: left;
+    width: 50%;
+    height: 100%;
+    color: black;
+    background-color: white;
+    text-align: center;
+    
+}
+
+#accueil-portfolio
+{   float: right;
+    color: white;
+    width: 50%;
+    height: 100%;
+    background-color: #1E1E1E;
+    text-align: center;
+    
+    
+}
+#accueil-tout
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    font-family: arial;
+}
+h1
+{
+    text-align: center;
+    
+}
+
+#boutique-photo
+{
+    width: 550px;
+    height: 500px;
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+
+#portfolio-photo
+{
+    width: 550px;
+    height: 500px;
+    margin-left: 0px;
+    margin-top: 50px;
+}
